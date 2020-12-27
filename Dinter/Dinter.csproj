@@ -19,4 +19,8 @@
     </PackageReference>
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\DinterDL\DinterDL.csproj" />
+  </ItemGroup>
+
 </Project>

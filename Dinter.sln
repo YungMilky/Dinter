@@ -4,9 +4,6 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 16.0.30804.86
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Dinter", "Dinter\Dinter.csproj", "{FB2A6393-CDAE-4DEA-9253-A8D0D798D337}"
-	ProjectSection(ProjectDependencies) = postProject
-		{847E09C0-2F7B-422D-99C6-7E8911E5C53F} = {847E09C0-2F7B-422D-99C6-7E8911E5C53F}
-	EndProjectSection
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DinterDL", "DinterDL\DinterDL.csproj", "{847E09C0-2F7B-422D-99C6-7E8911E5C53F}"
 EndProject
